@@ -102,19 +102,7 @@
                 </executions>
             </plugin>
 
-            <plugin>
-                <groupId>org.fuin.smp</groupId>
-                <artifactId>system-maven-plugin</artifactId>
-                <version>0.1.0</version>
-                <executions>
-                    <execution>
-                        <phase>initialize</phase>
-                        <goals>
-                            <goal>read-system-information</goal>
-                        </goals>
-                    </execution>
-                </executions>
-            </plugin>
+          
 
 
             <plugin>
