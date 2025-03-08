@@ -168,7 +168,7 @@
                                         <volume>${project.build.directory}:/usr/src/${appname}/data</volume>
                                     </bind>
                                 </volumes>
-                                <user>${org.fuin.smp.uid}:${org.fuin.smp.gid}</user>
+                                <user>root</user>
                                 <log>
                                     <prefix>TEST</prefix>
                                     <date>ISO8601</date>
