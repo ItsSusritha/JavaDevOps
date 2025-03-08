@@ -219,8 +219,9 @@
 
         </plugins>
 
-        <pluginManagement>
+        </pluginManagement>
 
-            <plugins>
+            </plugins>
+</project>
 
                 
